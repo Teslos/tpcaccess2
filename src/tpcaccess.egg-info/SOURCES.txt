@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.py
+G:/Limit/TIvas/Elsys/tpcaccess2/src/TpcAccessPy/_TpcAccess.pyd
+G:/Limit/TIvas/Elsys/tpcaccess2/src/TpcAccessPy/x64/Release/_TpcAccess.lib
+src/TpcAccess.py
+src/TpcAccess_Python_Example.py
+src/TpcAccess_lib.py
+src/tpcaccess.egg-info/PKG-INFO
+src/tpcaccess.egg-info/SOURCES.txt
+src/tpcaccess.egg-info/dependency_links.txt
+src/tpcaccess.egg-info/top_level.txt

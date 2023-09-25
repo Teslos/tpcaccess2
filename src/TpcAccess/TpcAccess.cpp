@@ -35,7 +35,7 @@ using namespace std;
 
 #include "SystemList.h"
 #ifndef NOSETTINGSFILE
-#include "TpcSettings.h"
+//#include "TpcSettings.h"
 #endif
 //---------------------------------------------------------------------------------
 

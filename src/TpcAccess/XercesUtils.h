@@ -3,7 +3,7 @@
 #ifndef __XERCESUTILS_H__
 #define __XERCESUTILS_H__
 
-#include <xercesc/util/XercesDefs.hpp>
+//#include <xercesc/util/XercesDefs.hpp>
 
 #ifdef _MSC_VER
 # include <tchar.h>

@@ -8,19 +8,26 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\roman\\.nuget\\packages\\": {}
+    "C:\\Users\\ivt\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\roman\\Documents\\projects\\tpcaccess\\repo\\examples\\vb\\continuous-measurement\\vb-continuous-measurement.vbproj",
+      "projectUniqueName": "G:\\Limit\\TIvas\\Elsys\\tpcaccess2\\examples\\vb\\continuous-measurement\\vb-continuous-measurement.vbproj",
       "projectName": "vb-continuous-measurement",
-      "projectPath": "C:\\Users\\roman\\Documents\\projects\\tpcaccess\\repo\\examples\\vb\\continuous-measurement\\vb-continuous-measurement.vbproj",
-      "packagesPath": "C:\\Users\\roman\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\roman\\Documents\\projects\\tpcaccess\\repo\\examples\\vb\\continuous-measurement\\obj\\",
+      "projectPath": "G:\\Limit\\TIvas\\Elsys\\tpcaccess2\\examples\\vb\\continuous-measurement\\vb-continuous-measurement.vbproj",
+      "packagesPath": "C:\\Users\\ivt\\.nuget\\packages\\",
+      "outputPath": "G:\\Limit\\TIvas\\Elsys\\tpcaccess2\\examples\\vb\\continuous-measurement\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\roman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ivt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
       }
     }
   }

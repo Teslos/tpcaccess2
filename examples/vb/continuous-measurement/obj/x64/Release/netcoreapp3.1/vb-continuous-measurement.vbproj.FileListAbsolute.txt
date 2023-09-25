@@ -1,0 +1,16 @@
+G:\Limit\TIvas\Elsys\tpcaccess2\examples\vb\continuous-measurement\bin\x64\Release\netcoreapp3.1\vb-continuous-measurement.exe
+G:\Limit\TIvas\Elsys\tpcaccess2\examples\vb\continuous-measurement\bin\x64\Release\netcoreapp3.1\vb-continuous-measurement.deps.json
+G:\Limit\TIvas\Elsys\tpcaccess2\examples\vb\continuous-measurement\bin\x64\Release\netcoreapp3.1\vb-continuous-measurement.runtimeconfig.json
+G:\Limit\TIvas\Elsys\tpcaccess2\examples\vb\continuous-measurement\bin\x64\Release\netcoreapp3.1\vb-continuous-measurement.runtimeconfig.dev.json
+G:\Limit\TIvas\Elsys\tpcaccess2\examples\vb\continuous-measurement\bin\x64\Release\netcoreapp3.1\vb-continuous-measurement.dll
+G:\Limit\TIvas\Elsys\tpcaccess2\examples\vb\continuous-measurement\bin\x64\Release\netcoreapp3.1\vb-continuous-measurement.pdb
+G:\Limit\TIvas\Elsys\tpcaccess2\examples\vb\continuous-measurement\bin\x64\Release\netcoreapp3.1\Elsys.TpcAccess.dll
+G:\Limit\TIvas\Elsys\tpcaccess2\examples\vb\continuous-measurement\obj\x64\Release\netcoreapp3.1\vb-continuous-measurement.vbproj.AssemblyReference.cache
+G:\Limit\TIvas\Elsys\tpcaccess2\examples\vb\continuous-measurement\obj\x64\Release\netcoreapp3.1\vb-continuous-measurement.GeneratedMSBuildEditorConfig.editorconfig
+G:\Limit\TIvas\Elsys\tpcaccess2\examples\vb\continuous-measurement\obj\x64\Release\netcoreapp3.1\vb-continuous-measurement.AssemblyInfoInputs.cache
+G:\Limit\TIvas\Elsys\tpcaccess2\examples\vb\continuous-measurement\obj\x64\Release\netcoreapp3.1\vb-continuous-measurement.AssemblyInfo.vb
+G:\Limit\TIvas\Elsys\tpcaccess2\examples\vb\continuous-measurement\obj\x64\Release\netcoreapp3.1\vb-continuous-measurement.vbproj.CoreCompileInputs.cache
+G:\Limit\TIvas\Elsys\tpcaccess2\examples\vb\continuous-measurement\obj\x64\Release\netcoreapp3.1\vb-continuous-measurement.vbproj.CopyComplete
+G:\Limit\TIvas\Elsys\tpcaccess2\examples\vb\continuous-measurement\obj\x64\Release\netcoreapp3.1\vb-continuous-measurement.dll
+G:\Limit\TIvas\Elsys\tpcaccess2\examples\vb\continuous-measurement\obj\x64\Release\netcoreapp3.1\vb-continuous-measurement.pdb
+G:\Limit\TIvas\Elsys\tpcaccess2\examples\vb\continuous-measurement\obj\x64\Release\netcoreapp3.1\vb-continuous-measurement.genruntimeconfig.cache
